@@ -12,5 +12,5 @@ How to use Google Sheets API (with Python): a quick, simple & free alternative t
 <code>pip3 install oauth2client</code><br>
 <li>Open your JSON file, copy “client_email” email address from it.</li>
 <li>In your Google Sheets spreadsheet press “Share" (big green button in the right top) & paste that email address to add it as “editor”.</li>
-<li>Run your program (the data from your spreadsheet will printed in your Terminal):</li>
+<li>Run your program (the data from the spreadsheet will be printed in your Terminal):</li>
 <code>python3 gsheetsapi.py</code><br>
