@@ -6,6 +6,6 @@ How to use Google Sheets API (with Python): a quick, simple & free alternative t
 
 <li>Open <a href="http://console.cloud.google.com/">Google Cloud Console</a> and create a new project.</li>
 
-<li>Enable Google Drive API.  Set ‘web server access’, to read ‘application data’. Download your credentials (keep safe!) in JSON format to your project folder.</li>
+<li>Enable <a href="https://console.cloud.google.com/apis/library/drive.googleapis.com">Google Drive API</a>.  Set ‘web server access’, to read ‘application data’. Download your credentials (keep safe!) in JSON format to your project folder.</li>
 
-<li>Enable Google Sheets API.</li>
+<li>Enable <a href="http://console.cloud.google.com/apis/library/sheets.googleapis.com">Google Sheets API</a>.</li>
