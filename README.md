@@ -1,5 +1,5 @@
 # Python-Google-Sheets-API
-How to use Google Sheets API (with Python): a quick, simple & free alternative to a database for small projects / MVPs.<br>
+How to access Google Sheets API (with Python): a quick, simple & free alternative to a database for small projects / MVPs.<br>
 
 <h2>Steps</h2>
 <li>Create a new spreadsheet via <a href="https://www.google.com/sheets/about/">Google Sheets</a> (a Google account is necessary). Fill in some data in the cells.</li>
